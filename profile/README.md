@@ -2,6 +2,8 @@
 
 Include many of your own or third party documents, make it easy to manage them, and add site deployment services/proxy deployment services for them.
 
+包括许多自己的和第三方的文档，使他们易于管理，并为它们添加在线文档网站的部署服务
+
 - [LincDocs](https://lincdocs.github.io/)
   - [MdNote_Public](https://github.com/LincDocs/MdNote_Public)
     - 内容: Linc的公开笔记
