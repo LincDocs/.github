@@ -27,6 +27,10 @@ Include many of your own or third party documents, make it easy to manage them, 
     - 内容：Obsidian的API请求
     - 在线：https://lincdocs.github.io/obsidian-api-request/
     - 原库：https://github.com/LincDemo/obsidian-api-request
+  - [nonebot2](https://github.com/LincDocs/nonebot2) (代理)
+    - 内容: Onnebot2 Chat机器人框架
+    - 在线：https://lincdocs.github.io/nonebot2/
+    - 原库: https://github.com/nonebot/nonebot2/tree/master/website/docs 
   - ...
 - Other
   - [LincZero.github.io](https://linczero.github.io/)
