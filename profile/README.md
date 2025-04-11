@@ -32,5 +32,9 @@ Include many of your own or third party documents, make it easy to manage them, 
     - 在线：https://lincdocs.github.io/nonebot2/
     - 原库: https://github.com/nonebot/nonebot2/tree/master/website/docs 
   - ...
-- Other
+- Other (同作者非该组织下的其他相关文档)
   - [LincZero.github.io](https://linczero.github.io/)
+  - [Kanata](https://linczero.github.io/MdNote_Public/01.%20DesignAndDevelop/Develop/04.%20Project/Type/Script/Kanata/) 中文翻译文档
+    - 内容: 提高键盘的舒适度和可用性与先进的定制
+    - 在线: https://linczero.github.io/MdNote_Public/01.%20DesignAndDevelop/Develop/04.%20Project/Type/Script/Kanata/
+    - 原库: https://github.com/jtroo/kanata/blob/main/docs/config.adoc
