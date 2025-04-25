@@ -8,6 +8,9 @@ Include many of your own or third party documents, make it easy to manage them, 
   - [MdNote_Public](https://github.com/LincDocs/MdNote_Public)
     - 内容: Linc的公开笔记
     - 在线：https://lincdocs.github.io/MdNote_Public/ (备用 https://linczero.github.io/MdNote_Public/) 
+  - [Workflow](https://github.com/LincDocs/Workflow)
+    - 内容: 该组织的网站部署工作流
+    - 在线: https://lincdocs.github.io/Workflow/
   - [Pkmer-Math](https://github.com/LincDocs/Pkmer-Math) (代理)
     - 内容: 数学库
     - 在线: https://lincdocs.github.io/Pkmer-Math/
@@ -17,9 +20,6 @@ Include many of your own or third party documents, make it easy to manage them, 
     - 内容：一个通用多平台的markdown扩展，能快速选择区域并渲染为特定内容
     - 在线：https://lincdocs.github.io/AnyBlock/
     - 原库：https://github.com/any-block/obsidian-any-block 的文档构
-  - [Workflow](https://github.com/LincDocs/Workflow)
-    - 内容: 该组织的网站部署工作流
-    - 在线: https://lincdocs.github.io/Workflow/
   - [ComfyUI-Workflows-Linc](https://github.com/LincDocs/ComfyUI-Workflows-Linc)
     - 内容: 个人的ComfyUI学习仓库
     - 在线: https://lincdocs.github.io/ComfyUI-Workflows-Linc/
@@ -30,7 +30,12 @@ Include many of your own or third party documents, make it easy to manage them, 
   - [nonebot2](https://github.com/LincDocs/nonebot2) (代理)
     - 内容: Onnebot2 Chat机器人框架
     - 在线：https://lincdocs.github.io/nonebot2/
-    - 原库: https://github.com/nonebot/nonebot2/tree/master/website/docs 
+    - 原库: https://github.com/nonebot/nonebot2/tree/master/website/docs
+  - [rust-course](https://github.com/LincDocs/rust-course) (代理。**原库 no license, 仅自用并提供迁移参考, 请勿直接使用该库**)
+    - 内容：这可能是目前最用心的 Rust 中文学习教程 / Book
+    - 在线: https://lincdocs.github.io/rust-course/
+    - 原库: https://github.com/sunface/rust-course
+    - 在线: https://course.rs/
   - ...
 - Other (同作者非该组织下的其他相关文档)
   - [LincZero.github.io](https://linczero.github.io/)
@@ -38,3 +43,5 @@ Include many of your own or third party documents, make it easy to manage them, 
     - 内容: 提高键盘的舒适度和可用性与先进的定制
     - 在线: https://linczero.github.io/MdNote_Public/01.%20DesignAndDevelop/Develop/04.%20Project/Type/Script/Kanata/
     - 原库: https://github.com/jtroo/kanata/blob/main/docs/config.adoc
+
+除了以上的部分，部分被我单开了仓库处理。也许还有部分是翻译到我个人笔记库里的，然后没被整理出来
