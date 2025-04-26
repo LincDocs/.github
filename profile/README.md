@@ -36,6 +36,11 @@ Include many of your own or third party documents, make it easy to manage them, 
     - 在线: https://lincdocs.github.io/rust-course/
     - 原库: https://github.com/sunface/rust-course
     - 在线: https://course.rs/
+  - [trpl-zh-cn](https://github.com/LincDocs/trpl-zh-cn)
+    - 内容: Rust 程序设计语言（2021 edition） 
+    - 在线: https://lincdocs.github.io/trpl-zh-cn/
+    - 原库: https://github.com/KaiserY/trpl-zh-cn
+    - 在线: kaisery.github.io/trpl-zh-cn/
   - ...
 - Other (同作者非该组织下的其他相关文档)
   - [LincZero.github.io](https://linczero.github.io/)
