@@ -17,18 +17,23 @@ Include many of your own or third party documents, make it easy to manage them, 
     - 原库：https://github.com/PKM-er/Pkmer-Math
     - 在线：https://pkm-er.github.io/Pkmer-Math/
   - [AnyBlock](https://github.com/LincDocs/AnyBlock) (代理)
-    - 内容：一个通用多平台的markdown扩展，能快速选择区域并渲染为特定内容
+    - 内容：一个通用多平台的 Markdown 扩展，能快速选择区域并渲染为特定内容
     - 在线：https://lincdocs.github.io/AnyBlock/
     - 原库：https://github.com/any-block/obsidian-any-block 的文档构
   - [ComfyUI-Workflows-Linc](https://github.com/LincDocs/ComfyUI-Workflows-Linc)
-    - 内容: 个人的ComfyUI学习仓库
+    - 内容: 个人的 ComfyUI 学习仓库
     - 在线: https://lincdocs.github.io/ComfyUI-Workflows-Linc/
   - [obsidian-api-request](https://github.com/LincDocs/obsidian-api-request) (代理)
-    - 内容：Obsidian的API请求
+    - 内容：Obsidian 的 API 请求
     - 在线：https://lincdocs.github.io/obsidian-api-request/
     - 原库：https://github.com/LincDemo/obsidian-api-request
+  - [obsidian-chinese](https://github.com/LincDocs/obsidian-chinese)
+    - 内容: Obsidian 中文文档 (落山鸡)
+    - 在线: https://lincdocs.github.io/obsidian-chinese/
+    - 原库: https://github.com/cyddgh/obsidian-chinese-help
+    - 在线: https://cyddgh.github.io/
   - [nonebot2](https://github.com/LincDocs/nonebot2) (代理)
-    - 内容: Onnebot2 Chat机器人框架
+    - 内容: Onnebot2 Chat 机器人框架
     - 在线：https://lincdocs.github.io/nonebot2/
     - 原库: https://github.com/nonebot/nonebot2/tree/master/website/docs
   - [rust-course](https://github.com/LincDocs/rust-course) (代理。**原库 no license, 仅自用并提供迁移参考, 请勿直接使用该库**)
@@ -42,7 +47,7 @@ Include many of your own or third party documents, make it easy to manage them, 
     - 原库: https://github.com/KaiserY/trpl-zh-cn
     - 在线: kaisery.github.io/trpl-zh-cn/
   - [rust-by-example-cn](https://github.com/LincDocs/rust-by-example-cn) (代理)
-    - 内容: Rust By Example 中文版(包含在线代码编辑器)
+    - 内容: Rust By Example 中文版 (包含在线代码编辑器)
     - 在线: https://lincdocs.github.io/rust-by-example-cn/
     - 原库: https://github.com/rust-lang-cn/rust-by-example-cn
     - 在线: rustwiki.org/zh-CN/rust-by-example
@@ -70,3 +75,4 @@ Include many of your own or third party documents, make it easy to manage them, 
     - 原库: https://github.com/jtroo/kanata/blob/main/docs/config.adoc
 
 除了以上的部分，部分被我单开了仓库处理。也许还有部分是翻译到我个人笔记库里的，然后没被整理出来
+
